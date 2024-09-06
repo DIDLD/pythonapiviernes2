@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.engine import Engine
 
 #Conexion a la BD
-#nombreBD
+#nombreBD 
 dataBaseName="gestionbd"
 
 #usuarioBD
